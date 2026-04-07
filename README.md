@@ -18,17 +18,13 @@ I enjoy building real-world projects while improving my understanding of both **
 
 <div align="center">
 
-| HTML5                                                      | CSS3                                                      | JavaScript                                                                | TypeScript                                                                |
-| ---------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=html" width="55"> | <img src="https://skillicons.dev/icons?i=css" width="55"> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"> |
+| HTML5                                                      | CSS3                                                      | JavaScript                                                                | TypeScript                                                                | React                                                                        | Next.js                                                      |
+| ---------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=html" width="55"> | <img src="https://skillicons.dev/icons?i=css" width="55"> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"> | <img src="https://skillicons.dev/icons?i=nextjs" width="55"> |
 
-| React                                                                        | Next.js                                                      | Node.js                                                      | Express                                                       |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- |
-| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"> | <img src="https://skillicons.dev/icons?i=nextjs" width="55"> | <img src="https://skillicons.dev/icons?i=nodejs" width="55"> | <img src="https://skillicons.dev/icons?i=express" width="55"> |
-
-| MongoDB                                                       | TailwindCSS                                                    | Python                                                                        | GitHub                                                                        |
-| ------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="https://skillicons.dev/icons?i=mongodb" width="55"> | <img src="https://skillicons.dev/icons?i=tailwind" width="55"> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"> |
+| Node.js                                                      | Express                                                       | MongoDB                                                       | TailwindCSS                                                    | Python                                                                        | GitHub                                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="55"> | <img src="https://skillicons.dev/icons?i=express" width="55"> | <img src="https://skillicons.dev/icons?i=mongodb" width="55"> | <img src="https://skillicons.dev/icons?i=tailwind" width="55"> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"> |
 
 </div>
 
@@ -64,7 +60,5 @@ I enjoy building real-world projects while improving my understanding of both **
 # 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://github.com/farshad-mirzaiee/farshad-mirzaiee/blob/output/github-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg" />
 </p>
