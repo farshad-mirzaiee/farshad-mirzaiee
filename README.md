@@ -22,11 +22,10 @@ I am a **Full Stack Developer in Training** currently learning and building with
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
 </p>
 
-## GitHub Stats
 
-![Farshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farshad-mirzaiee&show_icons=true&theme=tokyonight)
+## GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farshad-mirzaiee&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farshad-mirzaiee&theme=tokyonight)
 
 ## GitHub Streak
 
