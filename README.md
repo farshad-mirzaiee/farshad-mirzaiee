@@ -11,15 +11,15 @@ I am a **Full Stack Developer in Training** currently learning and building with
 ## Tech Stack
 
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
 </p>
 
 ## GitHub Stats
