@@ -17,7 +17,7 @@ I am a **Full Stack Developer in Training** currently learning and building with
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
 </p>
