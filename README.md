@@ -44,3 +44,7 @@ I am a **Full Stack Developer in Training** currently learning and building with
 - Odin Project Exercises
 - Portfolio Website
 - PulPays
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/farshad-mirzaiee/farshad-mirzaiee/blob/output/github-snake-dark.svg)
