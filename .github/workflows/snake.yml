@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: farshad-mirzaiee
-          outputs: dist/github-snake-dark.svg?palette=github-dark
+          outputs: dist/github-snake.svg?palette=github
 
       - name: Push github-contribution-grid-snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
