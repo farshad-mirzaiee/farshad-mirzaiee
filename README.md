@@ -33,9 +33,7 @@ I enjoy building real-world projects while improving my understanding of both **
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
