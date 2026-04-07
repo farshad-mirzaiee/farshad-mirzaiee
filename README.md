@@ -15,38 +15,18 @@ I am a **Full Stack Developer in Training** currently learning and building with
 ## Tech Stack
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60"/>
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60"/>
-
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
-
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farshad-mirzaiee&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshad-mirzaiee&layout=compact&theme=tokyonight"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
 </p>
 
 ---
@@ -54,9 +34,7 @@ I am a **Full Stack Developer in Training** currently learning and building with
 ## GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farshad-mirzaiee&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -81,5 +59,5 @@ I am a **Full Stack Developer in Training** currently learning and building with
 ## Contribution Graph
 
 <p align="center">
-<img src="https://github.com/farshad-mirzaiee/farshad-mirzaiee/blob/output/github-snake-dark.svg">
+  <img src="https://github.com/farshad-mirzaiee/farshad-mirzaiee/blob/output/github-snake-dark.svg">
 </p>
