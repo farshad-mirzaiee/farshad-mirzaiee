@@ -58,6 +58,4 @@ I am a **Full Stack Developer in Training** currently learning and building with
 
 ## Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/farshad-mirzaiee/farshad-mirzaiee/blob/output/github-snake-dark.svg">
-</p>
+<img src="https://github.com/farshad-mirzaiee/farshad-mirzaiee/blob/output/github-snake.svg">
