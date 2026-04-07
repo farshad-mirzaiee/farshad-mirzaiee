@@ -1,19 +1,85 @@
-<h1 align="center">Hi 👋, I'm Farshad</h1>
-<h3 align="center">A Full-Stack developer in training</h3>
+# Hi 👋 I'm Farshad
 
-- 🔭 I’m currently working on **The Odin Projects**
-
-- 🌱 I’m currently learning **JavaScript, TypeScript, React.js, Node.js, Next.JS**
-
-- 📫 How to reach me **farshad.mirzaiee@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&width=520&lines=Full+Stack+Developer+in+Training;Learning+Modern+Web+Development;Building+Projects+Every+Day" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farshad-mirzaiee&show_icons=true&locale=en" alt="farshad-mirzaiee" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farshad-mirzaiee&" alt="farshad-mirzaiee" /></p>
+I am a **Full Stack Developer in Training** currently learning and building with modern web technologies.
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60"/>
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
+
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=farshad-mirzaiee&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshad-mirzaiee&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farshad-mirzaiee&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Goals
+
+- Become a professional Full Stack Developer  
+- Build real-world web applications  
+- Continue improving my coding skills  
+- Contribute to meaningful projects  
+
+---
+
+## Projects
+
+- Odin Project Exercises  
+- Portfolio Website  
+- PulPays Platform  
+
+---
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github.com/farshad-mirzaiee/farshad-mirzaiee/blob/output/github-snake-dark.svg">
+</p>
