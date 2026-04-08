@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.svg" />
+  <img src="./farshad-github-banner.svg" />
 </p>
 
 <br>
