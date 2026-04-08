@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./farshad-github-banner.svg" alt="Farshad Mirzaiee banner" style="border-radius:12px;" />
+  <img src="./farshad-github-banner.svg" alt="Farshad Mirzaiee banner" width="100%" style="border-radius:12px;" />
 </p>
 
 <br>
