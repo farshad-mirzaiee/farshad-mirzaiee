@@ -1,57 +1,46 @@
-# Farshad Mirzaiee
+# Hi, I'm Farshad 👋
 
 ### Full Stack Developer in Training
 
-I’m learning to build modern web applications from front to back, with a focus on creating real projects and improving every day.
-
----
-
-## Current Focus
-
-- Building full stack web development skills
-- Learning modern frontend and backend tools
-- Creating real-world projects instead of just following tutorials
+I’m building my skills in modern web development by creating real projects and improving consistently across both frontend and backend technologies.
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs,nodejs,express,mongodb,tailwind&perline=7" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" />
-</p>
+| HTML | CSS | JavaScript | TypeScript | React | Next.js |
+|-----|-----|-----|-----|-----|-----|
+| <img src="https://skillicons.dev/icons?i=html" width="50"> | <img src="https://skillicons.dev/icons?i=css" width="50"> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"> | <img src="https://skillicons.dev/icons?i=nextjs" width="50"> |
+| Node.js | Express | MongoDB | Tailwind | Python | GitHub |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=express" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"> |
+
+</div>
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-- Odin Project exercises
-- Personal portfolio website
-- PulPays platform concept
-- Strengthening JavaScript, React, Node.js, and backend fundamentals
+- Building full stack web applications  
+- Strengthening JavaScript and TypeScript skills  
+- Learning React, Next.js, Node.js, and Express  
+- Improving backend and database skills with MongoDB  
 
 ---
 
-## Goals for 2026
+## Featured Projects
 
-- Become job-ready as a full stack developer
-- Build polished real-world applications
-- Develop stronger backend and database skills
-- Grow a GitHub that reflects consistent learning and project work
+- Odin Project Exercises  
+- Portfolio Website  
+- PulPays Platform  
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -59,5 +48,5 @@ I’m learning to build modern web applications from front to back, with a focus
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg"/>
 </p>
