@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="./farshad-github-banner.svg" alt="Farshad Mirzaiee banner" width="100%" />
+  <img src="./farshad-github-banner.svg" alt="Farshad Mirzaiee banner" style="border-radius:12px;" />
 </p>
 
-# Hi, I'm Farshad 👋
+<br>
 
-### Full Stack Developer in Training
+<h1 align="center">Hi, I'm Farshad 👋</h1>
 
-I’m building my skills in modern web development by creating real projects and improving consistently across both frontend and backend technologies.
+<p align="center">
+Full Stack Developer in Training<br>
+Building modern web applications by creating real projects and improving consistently across both frontend and backend technologies.
+</p>
 
 ---
 
-## Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
@@ -24,33 +27,37 @@ I’m building my skills in modern web development by creating real projects and
 
 ---
 
-## Current Focus
-
-- Building full stack web applications
-- Strengthening JavaScript and TypeScript skills
-- Learning React, Next.js, Node.js, and Express
-- Improving backend and database skills with MongoDB
-
----
-
-## Featured Projects
-
-- Odin Project Exercises
-- Portfolio Website
-- PulPays Platform
-
----
-
-## GitHub Activity
+<h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true" />
+Building full stack web applications<br>
+Strengthening JavaScript and TypeScript skills<br>
+Learning React, Next.js, Node.js, and Express<br>
+Improving backend and database skills with MongoDB
 </p>
 
 ---
 
-## Contribution Graph
+<h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg" />
+Odin Project Exercises<br>
+Portfolio Website<br>
+PulPays Platform
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg"/>
 </p>
