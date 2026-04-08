@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./farshad-github-banner.svg" alt="Farshad Mirzaiee banner" width="100%" style="border-radius:12px;" />
+  <img src="./farshad-github-banner.svg" width="100%" style="border-radius:12px;" />
 </p>
 
 <br>
@@ -59,5 +59,9 @@ PulPays Platform
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg">
+  </picture>
 </p>
