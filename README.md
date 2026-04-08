@@ -1,34 +1,54 @@
-# Hi 👋 I'm Farshad
+# Farshad Mirzaiee
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&width=520&lines=Full+Stack+Developer+in+Training;Learning+Modern+Web+Development;Building+Projects+Every+Day" />
+### Full Stack Developer in Training
+
+I’m learning to build modern web applications from front to back, with a focus on creating real projects and improving every day.
+
+---
+
+## Current Focus
+
+- Building full stack web development skills
+- Learning modern frontend and backend tools
+- Creating real-world projects instead of just following tutorials
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nextjs,nodejs,express,mongodb,tailwind&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" />
 </p>
 
 ---
 
-## About Me
+## What I'm Working On
 
-I am a **Full Stack Developer in Training** currently learning and building with modern web technologies.
-
-I enjoy building real-world projects while improving my understanding of both **frontend and backend development**.
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-| HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js |
-|------|------|------|------|------|------|
-| <img src="https://skillicons.dev/icons?i=html" width="55"> | <img src="https://skillicons.dev/icons?i=css" width="55"> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"> | <img src="https://skillicons.dev/icons?i=nextjs" width="55"> |
-| Node.js | Express | MongoDB | TailwindCSS | Python | GitHub |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="55"> | <img src="https://skillicons.dev/icons?i=express" width="55"> | <img src="https://skillicons.dev/icons?i=mongodb" width="55"> | <img src="https://skillicons.dev/icons?i=tailwind" width="55"> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"> |
-
-</div>
+- Odin Project exercises
+- Personal portfolio website
+- PulPays platform concept
+- Strengthening JavaScript, React, Node.js, and backend fundamentals
 
 ---
 
-# 📊 GitHub Stats
+## Goals for 2026
+
+- Become job-ready as a full stack developer
+- Build polished real-world applications
+- Develop stronger backend and database skills
+- Grow a GitHub that reflects consistent learning and project work
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true" />
@@ -36,24 +56,7 @@ I enjoy building real-world projects while improving my understanding of both **
 
 ---
 
-# 🎯 Goals
-
-* Become a professional **Full Stack Developer**
-* Build **real-world web applications**
-* Continue improving my **coding skills**
-* Contribute to **meaningful projects**
-
----
-
-# 🚀 Projects
-
-* **Odin Project Exercises**
-* **Portfolio Website**
-* **PulPays Platform**
-
----
-
-# 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg" />
