@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./farshad-github-banner.svg" alt="Farshad Mirzaiee banner" width="100%" />
+</p>
+
 # Hi, I'm Farshad 👋
 
 ### Full Stack Developer in Training
@@ -22,25 +26,25 @@ I’m building my skills in modern web development by creating real projects and
 
 ## Current Focus
 
-- Building full stack web applications  
-- Strengthening JavaScript and TypeScript skills  
-- Learning React, Next.js, Node.js, and Express  
-- Improving backend and database skills with MongoDB  
+- Building full stack web applications
+- Strengthening JavaScript and TypeScript skills
+- Learning React, Next.js, Node.js, and Express
+- Improving backend and database skills with MongoDB
 
 ---
 
 ## Featured Projects
 
-- Odin Project Exercises  
-- Portfolio Website  
-- PulPays Platform  
+- Odin Project Exercises
+- Portfolio Website
+- PulPays Platform
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -48,5 +52,5 @@ I’m building my skills in modern web development by creating real projects and
 ## Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/farshad-mirzaiee/farshad-mirzaiee/output/github-snake.svg" />
 </p>
