@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./farshad-github-banner.svg" />
 </p>
