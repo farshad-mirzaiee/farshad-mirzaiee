@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Farshad 👋</h1>
+<h1 align="center">Hi, I'm Farshad </h1>
 
 <p align="center">
 Full Stack Developer in Training<br>
