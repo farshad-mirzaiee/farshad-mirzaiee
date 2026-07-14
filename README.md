@@ -21,7 +21,7 @@ Front-end developer learning C and software engineering fundamentals | Preparing
 | <img src="https://skillicons.dev/icons?i=c" width="55" /> <img src="https://skillicons.dev/icons?i=linux" width="55" /> <img src="https://skillicons.dev/icons?i=bash" width="55" /> | <img src="https://skillicons.dev/icons?i=html" width="55" /> <img src="https://skillicons.dev/icons?i=css" width="55" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" /> | <img src="https://skillicons.dev/icons?i=git" width="55" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" /> <img src="https://skillicons.dev/icons?i=vscode" width="55" /> |
 
 </div>
----
+
 
 <h2 align="center"> Current Focus</h2>
 
