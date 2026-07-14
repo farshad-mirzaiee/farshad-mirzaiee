@@ -4,11 +4,10 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Farshad </h1>
+<h1> *Hi, I'm Farshad </h1>
 
-<p align="center">
-Full Stack Developer in Training<br>
-Building modern web applications by creating real projects and improving consistently across both frontend and backend technologies.
+<p>
+Front-end developer learning C and software engineering fundamentals | Preparing for 42 Tirana
 </p>
 
 ---
