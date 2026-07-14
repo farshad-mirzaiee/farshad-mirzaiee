@@ -26,13 +26,13 @@ Front-end developer learning C and software engineering fundamentals | Preparing
 
 ---
 
-<h2 align="center">🚀 Current Focus</h2>
+<h2> Current Focus</h2>
 
-<p align="center">
-Building full stack web applications<br>
-Strengthening JavaScript and TypeScript skills<br>
-Learning React, Next.js, Node.js, and Express<br>
-Improving backend and database skills with MongoDB
+<p>
+Preparing for the 42 Common Core<br>
+Mastering C programming and UNIX/Linux fundamentals<br>
+Strengthening algorithms, problem solving, and software engineering skills<br>
+Building a strong foundation for full-stack development
 </p>
 
 ---
