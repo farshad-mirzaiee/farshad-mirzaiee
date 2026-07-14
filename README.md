@@ -14,16 +14,23 @@ Front-end developer learning C and software engineering fundamentals | Preparing
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-<div align="center">
+<h3 align="center">Software Engineering</h3>
 
-| HTML | CSS | JavaScript | TypeScript | React | Next.js |
-|-----|-----|-----|-----|-----|-----|
-| <img src="https://skillicons.dev/icons?i=html" width="50"> | <img src="https://skillicons.dev/icons?i=css" width="50"> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"> | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"> | <img src="https://skillicons.dev/icons?i=nextjs" width="50"> |
-| Node.js | Express | MongoDB | Tailwind | Python | GitHub |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=express" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,github,vscode" />
+</p>
 
-</div>
+<h3 align="center">Web Development</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+<h3 align="center">Currently Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
+</p>
 ---
 
 <h2> Current Focus</h2>
