@@ -4,7 +4,7 @@
 
 <br>
 
-<h1> *Hi, I'm Farshad </h1>
+<h1> Hi, I'm Farshad </h1>
 
 <p>
 Front-end developer learning C and software engineering fundamentals | Preparing for 42 Tirana
