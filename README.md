@@ -12,25 +12,15 @@ Front-end developer learning C and software engineering fundamentals | Preparing
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Software Engineering</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,github,vscode" />
-</p>
+| Languages | Frontend | Backend | Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=c,html,css,js" /> | <img src="https://skillicons.dev/icons?i=react,tailwind" /> | <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" /> | <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" /> |
 
-<h3 align="center">Web Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-<h3 align="center">Currently Learning</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" />
-</p>
+</div>
 ---
 
 <h2> Current Focus</h2>
