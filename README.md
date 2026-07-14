@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./farshad-github-banner.svg" />
+  <img src="./farshad-42-terminal-premium.svg" />
 </p>
 
 <br>
