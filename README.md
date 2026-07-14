@@ -12,24 +12,24 @@ Front-end developer learning C and software engineering fundamentals | Preparing
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
-| Languages | Frontend | Backend | Tools |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=c,html,css,js" /> | <img src="https://skillicons.dev/icons?i=react,tailwind" /> | <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb" /> | <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" /> |
+| Current Focus | Web Development | Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=c,linux,bash" /> | <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
 </div>
 ---
 
-<h2> Current Focus</h2>
+<h2 align="center"> Current Focus</h2>
 
-<p>
-Preparing for the 42 Common Core<br>
-Mastering C programming and UNIX/Linux fundamentals<br>
-Strengthening algorithms, problem solving, and software engineering skills<br>
-Building a strong foundation for full-stack development
+<p align="center">
+Preparing for the 42 Piscine<br>
+Building strong software engineering fundamentals with C and UNIX/Linux<br>
+Developing problem-solving and algorithmic thinking<br>
+Laying the foundation for full-stack software development
 </p>
 
 ---
