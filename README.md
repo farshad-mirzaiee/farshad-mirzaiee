@@ -37,17 +37,11 @@ Building a strong foundation for full-stack development
 
 ---
 
-<h2 align="center">📂 Featured Projects</h2>
 
-<p align="center">
-Odin Project Exercises<br>
-Portfolio Website<br>
-PulPays Platform
-</p>
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2>GitHub Activity</h2>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true"/>
