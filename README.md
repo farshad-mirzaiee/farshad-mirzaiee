@@ -22,19 +22,19 @@ Front-end developer learning C and software engineering fundamentals | Preparing
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/tech-stack/c.svg" width="56" height="56" alt="C">&nbsp;&nbsp;&nbsp;
+      <img src="./assets/tech-stack/C.svg" width="56" height="56" alt="C">&nbsp;&nbsp;&nbsp;
       <img src="./assets/tech-stack/linux.svg" width="56" height="56" alt="Linux">&nbsp;&nbsp;&nbsp;
       <img src="./assets/tech-stack/bash.svg" width="56" height="56" alt="Bash">
     </td>
     <td align="center">
       <img src="./assets/tech-stack/html.svg" width="56" height="56" alt="HTML">&nbsp;&nbsp;&nbsp;
       <img src="./assets/tech-stack/css.svg" width="56" height="56" alt="CSS">&nbsp;&nbsp;&nbsp;
-      <img src="./assets/tech-stack/javascript.svg" width="56" height="56" alt="JavaScript">
+      <img src="./assets/tech-stack/Javascript.svg" width="56" height="56" alt="JavaScript">
     </td>
     <td align="center">
       <img src="./assets/tech-stack/git.svg" width="56" height="56" alt="Git">&nbsp;&nbsp;&nbsp;
       <img src="./assets/tech-stack/github.svg" width="56" height="56" alt="GitHub">&nbsp;&nbsp;&nbsp;
-      <img src="./assets/tech-stack/vscode.svg" width="56" height="56" alt="VS Code">
+      <img src="./assets/tech-stack/vs-code.svg" width="56" height="56" alt="VS Code">
     </td>
   </tr>
 </table>
