@@ -50,16 +50,6 @@ Laying the foundation for full-stack software development
 
 ---
 
-
-
----
-
-<h2>GitHub Activity</h2>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=farshad-mirzaiee&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 <h2 align="center">🐍 Contribution Graph</h2>
