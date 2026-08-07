@@ -51,19 +51,23 @@ Alongside that, I continue to build front-end projects and strengthen my underst
 ---
 ## Learning Repositories
 
-**C Programming: A Modern Approach**
+### C Programming: A Modern Approach
 
-My solutions to the exercises and programming projects from K. N. King's book as I build a strong foundation in C.
+My solutions to the exercises and programming projects from K. N. King's *C Programming: A Modern Approach* as I build a strong foundation in C.
 
-🔗 https://github.com/farshad-mirzaiee/c-programming-a-modern-approach
+Repository: https://github.com/farshad-mirzaiee/c-programming-a-modern-approach
 
 ---
 
-**The Odin Project**
+### The Odin Project
 
-A collection of projects completed while learning front-end development through The Odin Project.
+A collection of projects completed while working through **The Odin Project** curriculum.
 
+<<<<<<< HEAD
 🔗 
+=======
+Repository: https://github.com/farshad-mirzaiee/the-odin-project
+>>>>>>> cbdda48 (Updated the README with repository links.)
 ---
 
 <h2 align="center">🐍 Contribution Graph</h2>
