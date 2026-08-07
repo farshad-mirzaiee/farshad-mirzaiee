@@ -63,12 +63,9 @@ Repository: https://github.com/farshad-mirzaiee/c-programming-a-modern-approach
 
 A collection of projects completed while working through **The Odin Project** curriculum.
 
-<<<<<<< HEAD
-🔗 
-=======
+
 Repository: https://github.com/farshad-mirzaiee/the-odin-project
->>>>>>> cbdda48 (Updated the README with repository links.)
----
+
 
 <h2 align="center">🐍 Contribution Graph</h2>
 
