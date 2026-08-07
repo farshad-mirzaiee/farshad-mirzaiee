@@ -47,14 +47,6 @@ I also work with front-end development and I’m gradually building a stronger f
   </tr>
 </table>
 
-<h2 align="center"> Current Focus</h2>
-
-<p align="center">
-Preparing for the 42 Piscine<br>
-Building strong software engineering fundamentals with C and UNIX/Linux<br>
-Developing problem-solving and algorithmic thinking<br>
-Laying the foundation for full-stack software development
-</p>
 
 ---
 
