@@ -6,17 +6,17 @@
 
 # Hi, I'm Farshad
 
-I'm learning C and software engineering fundamentals while preparing for the 42 Piscine.
+I'm currently learning C and software engineering fundamentals while preparing for the 42 Piscine.
 
-I also work with front-end development and I’m gradually building a stronger foundation in programming, problem-solving, UNIX/Linux, and computer science.
+Alongside that, I continue to build front-end projects and strengthen my understanding of programming, problem-solving, UNIX/Linux, and computer science.
 
 ## Current Focus
 
 - Working through *C Programming: A Modern Approach* by K. N. King
-- Practicing C through small programming projects
+- Solving programming exercises and projects in C
 - Preparing for the 42 Piscine
-- Improving my problem-solving and algorithmic thinking
-- Continuing to build my web development skills
+- Improving my problem-solving skills
+- Continuing to develop front-end projects
 
 ---
 
@@ -24,7 +24,7 @@ I also work with front-end development and I’m gradually building a stronger f
 
 <table align="center">
   <tr>
-    <th width="300" align="center">42 Foundations</th>
+    <th width="300" align="center">Systems Programming</th>
     <th width="300" align="center">Web Development</th>
     <th width="300" align="center">Tools</th>
   </tr>
@@ -49,13 +49,21 @@ I also work with front-end development and I’m gradually building a stronger f
 
 
 ---
-## Projects and Learning
+## Learning Repositories
 
-- [C Programming: A Modern Approach](https://github.com/farshad-mirzaiee/c-programming-a-modern-approach)  
-  My solutions and programming projects while working through K. N. King's C book.
+📘 **C Programming: A Modern Approach**
 
-- [Farshad Portfolio](...)
-  My personal front-end portfolio.
+My solutions to the exercises and programming projects from K. N. King's book as I build a strong foundation in C.
+
+🔗 https://github.com/farshad-mirzaiee/c-programming-a-modern-approach
+
+---
+
+🌐 **The Odin Project**
+
+A collection of projects completed while learning front-end development through The Odin Project.
+
+🔗 ...
 ---
 
 <h2 align="center">🐍 Contribution Graph</h2>
