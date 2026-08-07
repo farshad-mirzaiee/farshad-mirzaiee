@@ -4,11 +4,19 @@
 
 <br>
 
-<h1> Hi, I'm Farshad </h1>
+# Hi, I'm Farshad
 
-<p>
-Front-end developer learning C and software engineering fundamentals | Preparing for 42 Piscine
-</p>
+I'm learning C and software engineering fundamentals while preparing for the 42 Piscine.
+
+I also work with front-end development and I’m gradually building a stronger foundation in programming, problem-solving, UNIX/Linux, and computer science.
+
+## Current Focus
+
+- Working through *C Programming: A Modern Approach* by K. N. King
+- Practicing C through small programming projects
+- Preparing for the 42 Piscine
+- Improving my problem-solving and algorithmic thinking
+- Continuing to build my web development skills
 
 ---
 
