@@ -339,7 +339,7 @@
 
   <!-- Blinking cursor -->
   <rect
-    x="1050"
+    x="1055"
     y="332"
     width="10"
     height="20"
