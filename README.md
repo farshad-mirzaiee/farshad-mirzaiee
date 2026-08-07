@@ -51,7 +51,7 @@ Alongside that, I continue to build front-end projects and strengthen my underst
 ---
 ## Learning Repositories
 
-📘 **C Programming: A Modern Approach**
+**C Programming: A Modern Approach**
 
 My solutions to the exercises and programming projects from K. N. King's book as I build a strong foundation in C.
 
@@ -59,7 +59,7 @@ My solutions to the exercises and programming projects from K. N. King's book as
 
 ---
 
-🌐 **The Odin Project**
+**The Odin Project**
 
 A collection of projects completed while learning front-end development through The Odin Project.
 
