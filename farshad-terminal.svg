@@ -269,16 +269,22 @@
     foundations.
   </text>
 
-  <!-- Cursor -->
-  <rect
-    x="1060"
-    y="337"
-    width="10"
-    height="18"
-    rx="1"
-    fill="#f0f6fc"
-    opacity="0.9"
+ <!-- Blinking cursor -->
+<rect
+  x="1060"
+  y="332"
+  width="10"
+  height="20"
+  rx="1"
+  fill="#f0f6fc"
+>
+  <animate
+    attributeName="opacity"
+    values="1;1;0;0;1"
+    dur="1s"
+    repeatCount="indefinite"
   />
+</rect>
 
 </svg>
 
