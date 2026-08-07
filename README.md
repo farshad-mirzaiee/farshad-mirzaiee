@@ -53,18 +53,17 @@ Alongside that, I continue to build front-end projects and strengthen my underst
 
 ### C Programming: A Modern Approach
 
-My solutions to the exercises and programming projects from K. N. King's *C Programming: A Modern Approach* as I build a strong foundation in C.
+My solutions to the exercises and programming projects from K. N. King's *C Programming: A Modern Approach* as I build a stronger foundation in C.
 
-Repository: https://github.com/farshad-mirzaiee/c-programming-a-modern-approach
+[View Repository](https://github.com/farshad-mirzaiee/c-programming-a-modern-approach)
 
 ---
 
 ### The Odin Project
 
-A collection of projects completed while working through **The Odin Project** curriculum.
+My projects and exercises from The Odin Project as I work through its web development curriculum.
 
-
-Repository: https://github.com/farshad-mirzaiee/the-odin-project
+[View Repository](https://github.com/farshad-mirzaiee/the-odin-project)
 
 
 <h2 align="center">🐍 Contribution Graph</h2>
