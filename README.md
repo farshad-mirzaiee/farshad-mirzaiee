@@ -63,7 +63,7 @@ My solutions to the exercises and programming projects from K. N. King's book as
 
 A collection of projects completed while learning front-end development through The Odin Project.
 
-🔗 https://github.com/farshad-mirzaiee/the-odin-project
+🔗 
 ---
 
 <h2 align="center">🐍 Contribution Graph</h2>
