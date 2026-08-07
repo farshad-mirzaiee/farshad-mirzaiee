@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./farshad-42-terminal-premium.svg" />
+  <img src="./farshad-terminal.svg" />
 </p>
 
 <br>
