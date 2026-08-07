@@ -4,192 +4,279 @@
   viewBox="0 0 1600 420"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <defs>
-    <style>
-      .m {
-        font-family: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas,
-          monospace;
-      }
+  <style>
+    text {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    }
 
-      .h {
-        fill: #f0f6fc;
-        font-size: 58px;
-        font-weight: 800;
-      }
+    .h {
+      fill: #f0f6fc;
+      font-size: 58px;
+      font-weight: 800;
+    }
 
-      .s {
-        fill: #8b949e;
-        font-size: 22px;
-      }
+    .s {
+      fill: #8b949e;
+      font-size: 22px;
+    }
 
-      .l {
-        fill: #58a6ff;
-        font-size: 19px;
-        font-weight: 700;
-      }
+    .l {
+      fill: #58a6ff;
+      font-size: 19px;
+      font-weight: 700;
+    }
 
-      .c {
-        fill: #7ee787;
-        font-size: 19px;
-      }
+    .c {
+      fill: #7ee787;
+      font-size: 19px;
+    }
 
-      .w {
-        fill: #f0f6fc;
-        font-size: 19px;
-      }
+    .w {
+      fill: #f0f6fc;
+      font-size: 19px;
+    }
 
-      .g {
-        fill: #8b949e;
-        font-size: 18px;
-      }
+    .g {
+      fill: #8b949e;
+      font-size: 18px;
+    }
 
-      .t {
-        fill: #6e7681;
-        font-size: 14px;
-        letter-spacing: 2px;
-      }
-    </style>
-  </defs>
+    .t {
+      fill: #6e7681;
+      font-size: 14px;
+      letter-spacing: 2px;
+    }
+  </style>
 
   <!-- Background -->
-  <rect width="1600" height="420" rx="24" fill="#0d1117" />
-
   <rect
-    x="1"
-    y="1"
-    width="1598"
-    height="418"
-    rx="23"
-    fill="none"
-    stroke="#30363d"
+    width="1600"
+    height="420"
+    rx="24"
+    fill="#0d1117"
   />
 
-  <!-- Left section -->
-  <text x="72" y="56" class="m t">
-    42 SCHOOL • SOFTWARE ENGINEERING
+  <!-- LEFT SIDE -->
+
+  <!-- Small heading -->
+  <text
+    x="70"
+    y="55"
+    class="t"
+  >
+    C • UNIX • SOFTWARE ENGINEERING
   </text>
 
-  <text x="72" y="128" class="m h">
+  <!-- Name -->
+  <text
+    x="70"
+    y="125"
+    class="h"
+  >
     Farshad Mirzaiee
   </text>
 
-  <text x="72" y="168" class="m s">
-    Preparing for the 42 Piscine.
+  <!-- Description -->
+  <text
+    x="70"
+    y="170"
+    class="s"
+  >
+    Learning C and building strong
   </text>
 
-  <text x="72" y="198" class="m s">
-    Building one project at a time.
+  <text
+    x="70"
+    y="200"
+    class="s"
+  >
+    software engineering fundamentals.
   </text>
 
+  <!-- Divider -->
   <line
-    x1="72"
-    y1="222"
+    x1="70"
+    y1="225"
     x2="760"
-    y2="222"
+    y2="225"
     stroke="#30363d"
+    stroke-width="2"
   />
 
-  <text x="72" y="266" class="m l">
+  <!-- Current focus heading -->
+  <text
+    x="70"
+    y="270"
+    class="l"
+  >
     CURRENT FOCUS
   </text>
 
-  <text x="72" y="308" class="m w">C</text>
-  <text x="102" y="308" class="m g">•</text>
+  <!-- Current focus items -->
+  <text x="70" y="315" class="w">C</text>
+  <text x="105" y="315" class="g">•</text>
 
-  <text x="124" y="308" class="m w">UNIX</text>
-  <text x="190" y="308" class="m g">•</text>
+  <text x="135" y="315" class="w">UNIX</text>
+  <text x="195" y="315" class="g">•</text>
 
-  <text x="212" y="308" class="m w">GIT</text>
-  <text x="260" y="308" class="m g">•</text>
+  <text x="225" y="315" class="w">GIT</text>
+  <text x="270" y="315" class="g">•</text>
 
-  <text x="282" y="308" class="m w">ALGORITHMS</text>
-  <text x="430" y="308" class="m g">•</text>
+  <text x="300" y="315" class="w">PROBLEM SOLVING</text>
+  <text x="485" y="315" class="g">•</text>
 
-  <text x="452" y="308" class="m w">
-    PROBLEM SOLVING
-  </text>
+  <text x="515" y="315" class="w">WEB</text>
 
-  <text x="72" y="382" class="m t">
+  <!-- Bottom tagline -->
+  <text
+    x="70"
+    y="375"
+    class="t"
+  >
     ONE COMMIT AT A TIME
   </text>
 
-  <!-- Terminal -->
+
+  <!-- RIGHT SIDE: TERMINAL -->
+
+  <!-- Terminal window -->
   <rect
-    x="915"
-    y="48"
-    width="615"
-    height="324"
+    x="890"
+    y="45"
+    width="640"
+    height="330"
     rx="16"
     fill="#161b22"
     stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <!-- Terminal title bar -->
+  <line
+    x1="890"
+    y1="90"
+    x2="1530"
+    y2="90"
+    stroke="#30363d"
+    stroke-width="2"
   />
 
   <!-- Terminal buttons -->
-  <circle cx="942" cy="75" r="5" fill="#ff5f56" />
-  <circle cx="962" cy="75" r="5" fill="#ffbd2e" />
-  <circle cx="982" cy="75" r="5" fill="#27c93f" />
-
-  <line
-    x1="915"
-    y1="92"
-    x2="1530"
-    y2="92"
-    stroke="#30363d"
+  <circle
+    cx="920"
+    cy="68"
+    r="6"
+    fill="#ff5f56"
   />
 
-  <!-- Command 1 -->
-  <text x="940" y="130" class="m c">
-    farshad@42
+  <circle
+    cx="942"
+    cy="68"
+    r="6"
+    fill="#ffbd2e"
+  />
+
+  <circle
+    cx="964"
+    cy="68"
+    r="6"
+    fill="#27c93f"
+  />
+
+
+  <!-- whoami command -->
+  <text
+    x="920"
+    y="125"
+    class="c"
+  >
+    farshad@dev:~$
   </text>
 
-  <text x="1058" y="130" class="m w">:</text>
-  <text x="1070" y="130" class="m l">~</text>
-  <text x="1085" y="130" class="m w">
-    $ whoami
+  <text
+    x="1085"
+    y="125"
+    class="w"
+  >
+    whoami
   </text>
 
-  <text x="940" y="170" class="m w">
+  <text
+    x="920"
+    y="160"
+    class="w"
+  >
     Farshad Mirzaiee
   </text>
 
-  <!-- Command 2 -->
-  <text x="940" y="220" class="m c">
-    farshad@42
+
+  <!-- focus command -->
+  <text
+    x="920"
+    y="205"
+    class="c"
+  >
+    farshad@dev:~$
   </text>
 
-  <text x="1058" y="220" class="m w">:</text>
-  <text x="1070" y="220" class="m l">~</text>
-  <text x="1085" y="220" class="m w">
-    $ school
+  <text
+    x="1085"
+    y="205"
+    class="w"
+  >
+    focus
   </text>
 
-  <text x="940" y="260" class="m w">
-    42 Tirana
+  <text
+    x="920"
+    y="240"
+    class="w"
+  >
+    C • UNIX • Git • Problem Solving
   </text>
 
-  <!-- Command 3 -->
-  <text x="940" y="310" class="m c">
-    farshad@42
+
+  <!-- goal command -->
+  <text
+    x="920"
+    y="285"
+    class="c"
+  >
+    farshad@dev:~$
   </text>
 
-  <text x="1058" y="310" class="m w">:</text>
-  <text x="1070" y="310" class="m l">~</text>
-  <text x="1085" y="310" class="m w">
-    $ goal
+  <text
+    x="1085"
+    y="285"
+    class="w"
+  >
+    goal
   </text>
 
-  <text x="940" y="348" class="m w">
-    Become an exceptional software engineer.
+  <text
+    x="920"
+    y="320"
+    class="w"
+  >
+    Build strong software engineering
   </text>
 
-  <!-- Blinking cursor -->
-  <text x="1394" y="348" class="m w">
-    ▋
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="1s"
-      repeatCount="indefinite"
-    />
+  <text
+    x="920"
+    y="348"
+    class="w"
+  >
+    foundations.
   </text>
+
+  <!-- Cursor -->
+  <rect
+    x="1060"
+    y="337"
+    width="10"
+    height="18"
+    rx="1"
+    fill="#f0f6fc"
+    opacity="0.9"
+  />
 </svg>
