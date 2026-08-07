@@ -49,7 +49,13 @@ I also work with front-end development and I’m gradually building a stronger f
 
 
 ---
+## Projects and Learning
 
+- [C Programming: A Modern Approach](https://github.com/farshad-mirzaiee/c-programming-a-modern-approach)  
+  My solutions and programming projects while working through K. N. King's C book.
+
+- [Farshad Portfolio](...)
+  My personal front-end portfolio.
 ---
 
 <h2 align="center">🐍 Contribution Graph</h2>
