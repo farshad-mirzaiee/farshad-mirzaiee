@@ -8,7 +8,7 @@
 
 I'm studying software engineering at **42 Tirana**, with a focus on building strong foundations in C, computer science, and the design of reliable software.
 
-I enjoy understanding how things work beneath the surface—from memory and processes to operating systems and larger software systems.
+I enjoy understanding how things work beneath the surface; from memory and processes to operating systems and larger software systems.
 
 ### 01 / current focus
 
