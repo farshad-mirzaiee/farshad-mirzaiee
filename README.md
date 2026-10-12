@@ -28,9 +28,8 @@ Web development exercises and projects completed while learning front-end fundam
 ### 03 / tools & technologies
 
 
-
 <div align="center">
-  <table width="85%">
+  <table width="100%">
     <tr>
       <th align="center" width="25%">Systems &amp; Languages</th>
       <th align="center" width="25%">Web Development</th>
@@ -38,28 +37,26 @@ Web development exercises and projects completed while learning front-end fundam
     </tr>
     <tr>
       <td align="center" nowrap="nowrap">
-        <img src="./assets/tech/c.svg" alt="C" title="C" width="38" height="38" />
-        <img src="./assets/tech/linux.svg" alt="Linux" title="Linux" width="38" height="38" />
-        <img src="./assets/tech/gnubash.svg" alt="Bash" title="Bash" width="38" height="38" />
+        <img src="./assets/tech/c.svg" alt="C" title="C" width="46" height="46" />
+        <img src="./assets/tech/linux.svg" alt="Linux" title="Linux" width="46" height="46" />
+        <img src="./assets/tech/gnubash.svg" alt="Bash" title="Bash" width="46" height="46" />
       </td>
       <td align="center" nowrap="nowrap">
-        <img src="./assets/tech/html5.svg" alt="HTML5" title="HTML5" width="38" height="38" />
-        <img src="./assets/tech/css.svg" alt="CSS3" title="CSS3" width="38" height="38" />
-        <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="38" height="38" />
+        <img src="./assets/tech/html5.svg" alt="HTML5" title="HTML5" width="46" height="46" />
+        <img src="./assets/tech/css.svg" alt="CSS3" title="CSS3" width="46" height="46" />
+        <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="46" height="46" />
       </td>
       <td align="center" nowrap="nowrap">
-        <img src="./assets/tech/gcc-plain.svg" alt="GCC" title="GCC" width="32" height="32" />
-        <img src="./assets/tech/gnu.svg" alt="GNU Make" title="GNU Make" width="32" height="32" />
-        <img src="./assets/tech/git.svg" alt="Git" title="Git" width="32" height="32" />
-        <img src="./assets/tech/github.svg" alt="GitHub" title="GitHub" width="32" height="32" />
-        <img src="./assets/tech/vim.svg" alt="Vim" title="Vim" width="32" height="32" />
-        <img src="./assets/tech/vscode-plain.svg" alt="VS Code" title="VS Code" width="32" height="32" />
+        <img src="./assets/tech/gcc-plain.svg" alt="GCC" title="GCC" width="38" height="38" />
+        <img src="./assets/tech/gnu.svg" alt="GNU Make" title="GNU Make" width="38" height="38" />
+        <img src="./assets/tech/git.svg" alt="Git" title="Git" width="38" height="38" />
+        <img src="./assets/tech/github.svg" alt="GitHub" title="GitHub" width="38" height="38" />
+        <img src="./assets/tech/vim.svg" alt="Vim" title="Vim" width="38" height="38" />
+        <img src="./assets/tech/vscode-plain.svg" alt="VS Code" title="VS Code" width="38" height="38" />
       </td>
     </tr>
   </table>
 </div>
-
-
 
 ### 04 / long-term interests
 
