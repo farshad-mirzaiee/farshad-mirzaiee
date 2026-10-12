@@ -8,7 +8,7 @@
 
 I'm studying software engineering at **42 Tirana**, with a focus on building strong foundations in C, computer science, and the design of reliable software.
 
-I enjoy understanding how things work beneath the surface; from memory and processes to operating systems and larger software systems.
+I enjoy understanding how things work beneath the surface—from memory and processes to operating systems and larger software systems.
 
 ### 01 / current focus
 
@@ -29,25 +29,40 @@ Web development exercises and projects completed while learning front-end fundam
 
 <table>
   <tr>
-    <th align="left">Systems</th>
-    <th align="left">Web</th>
-    <th align="left">Tools</th>
+    <th align="center">Systems & Languages</th>
+    <th align="center">Web Development</th>
+    <th align="center">Development Tools</th>
   </tr>
   <tr>
-    <td>
-      <img src="./assets/tech-stack/C.svg" width="36" height="36" alt="C" />
-      <img src="./assets/tech-stack/linux.svg" width="36" height="36" alt="Linux" />
-      <img src="./assets/tech-stack/bash.svg" width="36" height="36" alt="Bash" />
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/c/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="C" title="C" />
+      <img src="https://cdn.simpleicons.org/c/57606A#gh-light-mode-only" width="32" height="32" alt="C" title="C" />
+      <img src="https://cdn.simpleicons.org/linux/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Linux" title="Linux" />
+      <img src="https://cdn.simpleicons.org/linux/57606A#gh-light-mode-only" width="32" height="32" alt="Linux" title="Linux" />
+      <img src="https://cdn.simpleicons.org/gnubash/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Bash" title="Bash" />
+      <img src="https://cdn.simpleicons.org/gnubash/57606A#gh-light-mode-only" width="32" height="32" alt="Bash" title="Bash" />
     </td>
-    <td>
-      <img src="./assets/tech-stack/html.svg" width="36" height="36" alt="HTML" />
-      <img src="./assets/tech-stack/css.svg" width="36" height="36" alt="CSS" />
-      <img src="./assets/tech-stack/Javascript.svg" width="36" height="36" alt="JavaScript" />
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/html5/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="HTML5" title="HTML5" />
+      <img src="https://cdn.simpleicons.org/html5/57606A#gh-light-mode-only" width="32" height="32" alt="HTML5" title="HTML5" />
+      <img src="https://cdn.simpleicons.org/css3/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="CSS3" title="CSS3" />
+      <img src="https://cdn.simpleicons.org/css3/57606A#gh-light-mode-only" width="32" height="32" alt="CSS3" title="CSS3" />
+      <img src="https://cdn.simpleicons.org/javascript/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="JavaScript" title="JavaScript" />
+      <img src="https://cdn.simpleicons.org/javascript/57606A#gh-light-mode-only" width="32" height="32" alt="JavaScript" title="JavaScript" />
     </td>
-    <td>
-      <img src="./assets/tech-stack/git.svg" width="36" height="36" alt="Git" />
-      <img src="./assets/tech-stack/github.svg" width="36" height="36" alt="GitHub" />
-      <img src="./assets/tech-stack/vs-code.svg" width="36" height="36" alt="VS Code" />
+    <td align="center">
+      <img src="./assets/gcc-dark.svg#gh-dark-mode-only" width="32" height="32" alt="GCC" title="GCC compiler" />
+      <img src="./assets/gcc-light.svg#gh-light-mode-only" width="32" height="32" alt="GCC" title="GCC compiler" />
+      <img src="./assets/make-dark.svg#gh-dark-mode-only" width="32" height="32" alt="GNU Make" title="GNU Make" />
+      <img src="./assets/make-light.svg#gh-light-mode-only" width="32" height="32" alt="GNU Make" title="GNU Make" />
+      <img src="https://cdn.simpleicons.org/git/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Git" title="Git" />
+      <img src="https://cdn.simpleicons.org/git/57606A#gh-light-mode-only" width="32" height="32" alt="Git" title="Git" />
+      <img src="https://cdn.simpleicons.org/github/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://cdn.simpleicons.org/github/57606A#gh-light-mode-only" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://cdn.simpleicons.org/vim/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Vim" title="Vim" />
+      <img src="https://cdn.simpleicons.org/vim/57606A#gh-light-mode-only" width="32" height="32" alt="Vim" title="Vim" />
+      <img src="https://cdn.simpleicons.org/visualstudiocode/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="VS Code" title="VS Code" />
+      <img src="https://cdn.simpleicons.org/visualstudiocode/57606A#gh-light-mode-only" width="32" height="32" alt="VS Code" title="VS Code" />
     </td>
   </tr>
 </table>
