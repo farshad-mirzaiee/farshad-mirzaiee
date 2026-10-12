@@ -28,13 +28,8 @@ Web development exercises and projects completed while learning front-end fundam
 ### 03 / tools & technologies
 
 | Systems & Languages | Web Development | Development Tools |
-|:---:|:---:|:---:|
-| ![C](./assets/tech/c-dark.svg#gh-dark-mode-only) ![C](./assets/tech/c-light.svg#gh-light-mode-only)  C | ![HTML5](./assets/tech/html5-dark.svg#gh-dark-mode-only) ![HTML5](./assets/tech/html5-light.svg#gh-light-mode-only)  HTML5 | ![GCC](./assets/tech/gcc-dark.svg#gh-dark-mode-only) ![GCC](./assets/tech/gcc-light.svg#gh-light-mode-only)  GCC |
-| ![Linux](./assets/tech/linux-dark.svg#gh-dark-mode-only) ![Linux](./assets/tech/linux-light.svg#gh-light-mode-only)  Linux | ![CSS3](./assets/tech/css3-dark.svg#gh-dark-mode-only) ![CSS3](./assets/tech/css3-light.svg#gh-light-mode-only)  CSS3 | ![GNU Make](./assets/tech/make-dark.svg#gh-dark-mode-only) ![GNU Make](./assets/tech/make-light.svg#gh-light-mode-only)  GNU Make |
-| ![Bash](./assets/tech/bash-dark.svg#gh-dark-mode-only) ![Bash](./assets/tech/bash-light.svg#gh-light-mode-only)  Bash | ![JavaScript](./assets/tech/javascript-dark.svg#gh-dark-mode-only) ![JavaScript](./assets/tech/javascript-light.svg#gh-light-mode-only)  JavaScript | ![Git](./assets/tech/git-dark.svg#gh-dark-mode-only) ![Git](./assets/tech/git-light.svg#gh-light-mode-only)  Git |
-|   |   | ![GitHub](./assets/tech/github-dark.svg#gh-dark-mode-only) ![GitHub](./assets/tech/github-light.svg#gh-light-mode-only)  GitHub |
-|   |   | ![Vim](./assets/tech/vim-dark.svg#gh-dark-mode-only) ![Vim](./assets/tech/vim-light.svg#gh-light-mode-only)  Vim |
-|   |   | ![VS Code](./assets/tech/vscode-dark.svg#gh-dark-mode-only) ![VS Code](./assets/tech/vscode-light.svg#gh-light-mode-only)  VS Code |
+| :---: | :---: | :---: |
+| <img src="./assets/tech/c.svg" alt="C" title="C" width="32" height="32" /> <img src="./assets/tech/linux.svg" alt="Linux" title="Linux" width="32" height="32" /> <img src="./assets/tech/bash.svg" alt="Bash" title="Bash" width="32" height="32" /> | <img src="./assets/tech/html5.svg" alt="HTML5" title="HTML5" width="32" height="32" /> <img src="./assets/tech/css3.svg" alt="CSS3" title="CSS3" width="32" height="32" /> <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="32" height="32" /> | <img src="./assets/tech/gcc.svg" alt="GCC" title="GCC" width="32" height="32" /> <img src="./assets/tech/make.svg" alt="GNU Make" title="GNU Make" width="32" height="32" /> <img src="./assets/tech/git.svg" alt="Git" title="Git" width="32" height="32" /> <img src="./assets/tech/github.svg" alt="GitHub" title="GitHub" width="32" height="32" /> <img src="./assets/tech/vim.svg" alt="Vim" title="Vim" width="32" height="32" /> <img src="./assets/tech/vscode.svg" alt="VS Code" title="VS Code" width="32" height="32" /> |
 
 ### 04 / long-term interests
 
