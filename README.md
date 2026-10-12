@@ -27,45 +27,14 @@ Web development exercises and projects completed while learning front-end fundam
 
 ### 03 / tools & technologies
 
-<table>
-  <tr>
-    <th align="center">Systems & Languages</th>
-    <th align="center">Web Development</th>
-    <th align="center">Development Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/c/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="C" title="C" />
-      <img src="https://cdn.simpleicons.org/c/57606A#gh-light-mode-only" width="32" height="32" alt="C" title="C" />
-      <img src="https://cdn.simpleicons.org/linux/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Linux" title="Linux" />
-      <img src="https://cdn.simpleicons.org/linux/57606A#gh-light-mode-only" width="32" height="32" alt="Linux" title="Linux" />
-      <img src="https://cdn.simpleicons.org/gnubash/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Bash" title="Bash" />
-      <img src="https://cdn.simpleicons.org/gnubash/57606A#gh-light-mode-only" width="32" height="32" alt="Bash" title="Bash" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/html5/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="HTML5" title="HTML5" />
-      <img src="https://cdn.simpleicons.org/html5/57606A#gh-light-mode-only" width="32" height="32" alt="HTML5" title="HTML5" />
-      <img src="https://cdn.simpleicons.org/css3/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="CSS3" title="CSS3" />
-      <img src="https://cdn.simpleicons.org/css3/57606A#gh-light-mode-only" width="32" height="32" alt="CSS3" title="CSS3" />
-      <img src="https://cdn.simpleicons.org/javascript/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="JavaScript" title="JavaScript" />
-      <img src="https://cdn.simpleicons.org/javascript/57606A#gh-light-mode-only" width="32" height="32" alt="JavaScript" title="JavaScript" />
-    </td>
-    <td align="center">
-      <img src="./assets/gcc-dark.svg#gh-dark-mode-only" width="32" height="32" alt="GCC" title="GCC compiler" />
-      <img src="./assets/gcc-light.svg#gh-light-mode-only" width="32" height="32" alt="GCC" title="GCC compiler" />
-      <img src="./assets/make-dark.svg#gh-dark-mode-only" width="32" height="32" alt="GNU Make" title="GNU Make" />
-      <img src="./assets/make-light.svg#gh-light-mode-only" width="32" height="32" alt="GNU Make" title="GNU Make" />
-      <img src="https://cdn.simpleicons.org/git/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Git" title="Git" />
-      <img src="https://cdn.simpleicons.org/git/57606A#gh-light-mode-only" width="32" height="32" alt="Git" title="Git" />
-      <img src="https://cdn.simpleicons.org/github/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="GitHub" title="GitHub" />
-      <img src="https://cdn.simpleicons.org/github/57606A#gh-light-mode-only" width="32" height="32" alt="GitHub" title="GitHub" />
-      <img src="https://cdn.simpleicons.org/vim/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="Vim" title="Vim" />
-      <img src="https://cdn.simpleicons.org/vim/57606A#gh-light-mode-only" width="32" height="32" alt="Vim" title="Vim" />
-      <img src="https://cdn.simpleicons.org/visualstudiocode/C9D1D9#gh-dark-mode-only" width="32" height="32" alt="VS Code" title="VS Code" />
-      <img src="https://cdn.simpleicons.org/visualstudiocode/57606A#gh-light-mode-only" width="32" height="32" alt="VS Code" title="VS Code" />
-    </td>
-  </tr>
-</table>
+| Systems & Languages | Web Development | Development Tools |
+|:---:|:---:|:---:|
+| ![C](./assets/tech/c-dark.svg#gh-dark-mode-only) ![C](./assets/tech/c-light.svg#gh-light-mode-only)  C | ![HTML5](./assets/tech/html5-dark.svg#gh-dark-mode-only) ![HTML5](./assets/tech/html5-light.svg#gh-light-mode-only)  HTML5 | ![GCC](./assets/tech/gcc-dark.svg#gh-dark-mode-only) ![GCC](./assets/tech/gcc-light.svg#gh-light-mode-only)  GCC |
+| ![Linux](./assets/tech/linux-dark.svg#gh-dark-mode-only) ![Linux](./assets/tech/linux-light.svg#gh-light-mode-only)  Linux | ![CSS3](./assets/tech/css3-dark.svg#gh-dark-mode-only) ![CSS3](./assets/tech/css3-light.svg#gh-light-mode-only)  CSS3 | ![GNU Make](./assets/tech/make-dark.svg#gh-dark-mode-only) ![GNU Make](./assets/tech/make-light.svg#gh-light-mode-only)  GNU Make |
+| ![Bash](./assets/tech/bash-dark.svg#gh-dark-mode-only) ![Bash](./assets/tech/bash-light.svg#gh-light-mode-only)  Bash | ![JavaScript](./assets/tech/javascript-dark.svg#gh-dark-mode-only) ![JavaScript](./assets/tech/javascript-light.svg#gh-light-mode-only)  JavaScript | ![Git](./assets/tech/git-dark.svg#gh-dark-mode-only) ![Git](./assets/tech/git-light.svg#gh-light-mode-only)  Git |
+|   |   | ![GitHub](./assets/tech/github-dark.svg#gh-dark-mode-only) ![GitHub](./assets/tech/github-light.svg#gh-light-mode-only)  GitHub |
+|   |   | ![Vim](./assets/tech/vim-dark.svg#gh-dark-mode-only) ![Vim](./assets/tech/vim-light.svg#gh-light-mode-only)  Vim |
+|   |   | ![VS Code](./assets/tech/vscode-dark.svg#gh-dark-mode-only) ![VS Code](./assets/tech/vscode-light.svg#gh-light-mode-only)  VS Code |
 
 ### 04 / long-term interests
 
