@@ -4,23 +4,24 @@
 
 <br>
 
-# Hi, I'm Farshad
-
-I'm currently learning C and software engineering fundamentals while preparing for the 42 Piscine.
-
-Alongside that, I continue to build front-end projects and strengthen my understanding of programming, problem-solving, UNIX/Linux, and computer science.
-
-## Current Focus
-
-- Working through *C Programming: A Modern Approach* by K. N. King
-- Solving programming exercises and projects in C
-- Preparing for the 42 Piscine
-- Improving my problem-solving skills
-- Continuing to develop front-end projects
+Farshad Mirzaiee
+software engineering student · 42 Tirana · C / UNIX / computer science
+I'm studying software engineering at 42 Tirana, with a focus on building strong foundations in C, computer science, and the design of reliable software.
+I enjoy understanding how things work beneath the surface—from memory and processes to operating systems and larger software systems.
+01 / current focus
+C programming — working through C Programming: A Modern Approach by K. N. King
+Computer science — algorithms, problem-solving, and mathematical foundations
+UNIX / Linux — shell, processes, files, and development tools
+42 Common Core — preparing for the next stage of the curriculum
+02 / selected work
+C Programming: A Modern Approach
+Exercises and programming projects from K. N. King's textbook, documenting my progress in C.
+The Odin Project
+Web development exercises and projects completed while learning front-end fundamentals.
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
   <tr>
