@@ -27,6 +27,7 @@ Web development exercises and projects completed while learning front-end fundam
 
 ### 03 / tools & technologies
 
+
 <div align="center">
 <table>
   <thead>
@@ -39,18 +40,55 @@ Web development exercises and projects completed while learning front-end fundam
   <tbody>
     <tr>
       <td align="center">
-        <img src="./assets/tech/c.svg" alt="C" title="C" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/linux.svg" alt="Linux" title="Linux" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/gnubash.svg" alt="Bash" title="Bash" width="46" height="46">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/c-dark.svg">
+          <img src="./assets/tech/c-light.svg" alt="C" title="C" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/linux-dark.svg">
+          <img src="./assets/tech/linux-light.svg" alt="Linux" title="Linux" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/bash-dark.svg">
+          <img src="./assets/tech/bash-light.svg" alt="Bash" title="Bash" width="46" height="46">
+        </picture>
       </td>
       <td align="center">
-        <img src="./assets/tech/html5.svg" alt="HTML5" title="HTML5" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/css.svg" alt="CSS3" title="CSS3" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="46" height="46">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/html-dark.svg">
+          <img src="./assets/tech/html-light.svg" alt="HTML5" title="HTML5" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/css-dark.svg">
+          <img src="./assets/tech/css-light.svg" alt="CSS3" title="CSS3" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/js-dark.svg">
+          <img src="./assets/tech/js-light.svg" alt="JavaScript" title="JavaScript" width="46" height="46">
+        </picture>
       </td>
       <td align="center" nowrap="nowrap">
-        <img src="./assets/tech/gcc-plain.svg" alt="GCC" title="GCC" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/gnu.svg" alt="GNU Make" title="GNU Make" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/git.svg" alt="Git" title="Git" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/github.svg" alt="GitHub" title="GitHub" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/vim.svg" alt="Vim" title="Vim" width="46" height="46">&nbsp;&nbsp;<img src="./assets/tech/vscode-plain.svg" alt="VS Code" title="VS Code" width="46" height="46">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/gcc-plain-dark.svg">
+          <img src="./assets/tech/gcc-plain-light.svg" alt="GCC" title="GCC" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/gnu-dark.svg">
+          <img src="./assets/tech/gnu-light.svg" alt="GNU Make" title="GNU Make" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/git-dark.svg">
+          <img src="./assets/tech/git-light.svg" alt="Git" title="Git" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/github-dark.svg">
+          <img src="./assets/tech/github-light.svg" alt="GitHub" title="GitHub" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/vim-dark.svg">
+          <img src="./assets/tech/vim-light.svg" alt="Vim" title="Vim" width="46" height="46">
+        </picture>&nbsp;&nbsp;<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/vscode-plain-dark.svg">
+          <img src="./assets/tech/vscode-plain-light.svg" alt="VS Code" title="VS Code" width="46" height="46">
+        </picture>
       </td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 ### 04 / long-term interests
 
