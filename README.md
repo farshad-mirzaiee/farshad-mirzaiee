@@ -65,8 +65,8 @@ Web development exercises and projects completed while learning front-end fundam
       </td>
       <td align="center" nowrap="nowrap">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/gcc-plain-dark.svg">
-          <img src="./assets/tech/gcc-plain-light.svg" alt="GCC" title="GCC" width="46" height="46">
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/gcc-dark.svg">
+          <img src="./assets/tech/gcc-light.svg" alt="GCC" title="GCC" width="46" height="46">
         </picture>&nbsp;&nbsp;<picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/gnu-dark.svg">
           <img src="./assets/tech/gnu-light.svg" alt="GNU Make" title="GNU Make" width="46" height="46">
@@ -80,8 +80,8 @@ Web development exercises and projects completed while learning front-end fundam
           <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/vim-dark.svg">
           <img src="./assets/tech/vim-light.svg" alt="Vim" title="Vim" width="46" height="46">
         </picture>&nbsp;&nbsp;<picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/vscode-plain-dark.svg">
-          <img src="./assets/tech/vscode-plain-light.svg" alt="VS Code" title="VS Code" width="46" height="46">
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/vscode-dark.svg">
+          <img src="./assets/tech/vscode-light.svg" alt="VS Code" title="VS Code" width="46" height="46">
         </picture>
       </td>
     </tr>
