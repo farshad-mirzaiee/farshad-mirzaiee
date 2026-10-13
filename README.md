@@ -4,11 +4,11 @@
 
 # Farshad Mirzaiee
 
-`software engineering student` · `42 Tirana` · `C / UNIX / computer science`
+`software engineering student` · `42 School` · `C / UNIX / computer science`
 
-I'm studying software engineering at **42 Tirana**, with a focus on building strong foundations in C, computer science, and the design of reliable software.
+I'm a software engineering student at **42 Tirana**, currently spending most of my time learning C and working on my computer science fundamentals.
 
-I enjoy understanding how things work beneath the surface—from memory and processes to operating systems and larger software systems.
+I've always been curious about how computers actually work. I like digging into the details, figuring things out, and understanding why something works instead of just knowing how to make it work.
 
 ### 01 / current focus
 
