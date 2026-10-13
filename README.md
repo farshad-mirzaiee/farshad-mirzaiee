@@ -28,7 +28,7 @@ Web development exercises and projects completed while learning front-end fundam
 ### 03 / tools & technologies
 
 
-<table width="100%">
+<table>
   <thead>
     <tr>
       <th align="center">Systems &amp; Languages</th>
