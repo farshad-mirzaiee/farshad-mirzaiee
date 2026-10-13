@@ -27,7 +27,7 @@ Web development exercises and projects completed while learning front-end fundam
 
 ### 03 / tools & technologies
 
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -50,7 +50,7 @@ Web development exercises and projects completed while learning front-end fundam
     </tr>
   </tbody>
 </table>
-
+</div>
 ### 04 / long-term interests
 
 `operating systems` · `systems programming` · `software architecture` · `AI & quantitative research`
