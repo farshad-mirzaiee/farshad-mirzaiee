@@ -31,9 +31,9 @@ Web development exercises and projects completed while learning front-end fundam
 <table width="100%">
   <thead>
     <tr>
-      <th width="25%" align="center">Systems &amp; Languages</th>
-      <th width="25%" align="center">Web Development</th>
-      <th width="50%" align="center">Development Tools</th>
+      <th align="center">Systems &amp; Languages</th>
+      <th align="center">Web Development</th>
+      <th align="center">Development Tools</th>
     </tr>
   </thead>
   <tbody>
