@@ -51,6 +51,7 @@ Web development exercises and projects completed while learning front-end fundam
   </tbody>
 </table>
 </div>
+
 ### 04 / long-term interests
 
 `operating systems` · `systems programming` · `software architecture` · `AI & quantitative research`
